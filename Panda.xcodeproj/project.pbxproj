@@ -138,7 +138,6 @@
 		3B4080E51F20800700F810BE /* UIViewControllerPreviewing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B407FF91F207E5C00F810BE /* UIViewControllerPreviewing.swift */; };
 		3B4080E61F20800700F810BE /* UIViewPropertyAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B407FF61F207E5C00F810BE /* UIViewPropertyAnimator.swift */; };
 		3B4080E71F20800700F810BE /* UIVisualEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B407FFA1F207E5C00F810BE /* UIVisualEffectView.swift */; };
-		3B4080E81F20800700F810BE /* UIWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B407FF41F207E5C00F810BE /* UIWebView.swift */; };
 		3B4080E91F20800700F810BE /* UIWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B407FF51F207E5C00F810BE /* UIWindow.swift */; };
 		3B4080FF1F20810600F810BE /* CAAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B4080F31F2080F000F810BE /* CAAnimation.swift */; };
 		3B4081011F20810600F810BE /* CABasicAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B4080F71F2080F000F810BE /* CABasicAnimation.swift */; };
@@ -221,7 +220,6 @@
 		3B3868BC1F31FBB3003CA7AC /* UIDocumentBrowserAction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIDocumentBrowserAction.swift; sourceTree = "<group>"; };
 		3B3868BD1F31FBB3003CA7AC /* UIDocumentBrowserTransitionController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIDocumentBrowserTransitionController.swift; sourceTree = "<group>"; };
 		3B3868BE1F31FBB3003CA7AC /* UIDocumentBrowserViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIDocumentBrowserViewController.swift; sourceTree = "<group>"; };
-		3B407FF41F207E5C00F810BE /* UIWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIWebView.swift; sourceTree = "<group>"; };
 		3B407FF51F207E5C00F810BE /* UIWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIWindow.swift; sourceTree = "<group>"; };
 		3B407FF61F207E5C00F810BE /* UIViewPropertyAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewPropertyAnimator.swift; sourceTree = "<group>"; };
 		3B407FF71F207E5C00F810BE /* UIViewAnimating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewAnimating.swift; sourceTree = "<group>"; };
@@ -585,7 +583,6 @@
 				3B407FF91F207E5C00F810BE /* UIViewControllerPreviewing.swift */,
 				3B407FF61F207E5C00F810BE /* UIViewPropertyAnimator.swift */,
 				3B407FFA1F207E5C00F810BE /* UIVisualEffectView.swift */,
-				3B407FF41F207E5C00F810BE /* UIWebView.swift */,
 				3B407FF51F207E5C00F810BE /* UIWindow.swift */,
 			);
 			path = UIKit;
@@ -943,7 +940,6 @@
 				3B4080E61F20800700F810BE /* UIViewPropertyAnimator.swift in Sources */,
 				3B4DEAEA1F318710007E03CB /* UITextPasteItem.swift in Sources */,
 				3B4080E71F20800700F810BE /* UIVisualEffectView.swift in Sources */,
-				3B4080E81F20800700F810BE /* UIWebView.swift in Sources */,
 				3B4080E91F20800700F810BE /* UIWindow.swift in Sources */,
 				3BB2EE8F1DC99F0E001D7AAB /* UICollectionViewExtensions.swift in Sources */,
 				3BB2EE931DC9BF09001D7AAB /* UIStackView.swift in Sources */,
