@@ -27,6 +27,7 @@ extension PandaChain where Object: NSItemProvider {
         return self
     }
 
+    @available(iOS 11.0, *)
     @discardableResult
     public func preferredPresentationStyle(_ value: NSItemProvider.PreferredPresentationStyle) -> PandaChain {
         object.preferredPresentationStyle = value
